@@ -1,0 +1,55 @@
+body{
+    background-image: none;
+    background-color: white;
+}
+@font-face {
+    font-family: Righteous-Regular;
+    src: url(Righteous-Regular.ttf);
+}
+h1{
+    color: white;
+    text-align: center;
+    font-family: Righteous-Regular;
+    font-size: auto;
+    font-weight: 100;
+    background-color: #7abee3;
+    margin: auto;
+    padding: 15px 0;
+    height: 5%;
+    top:0;
+    width: 100%;
+
+}
+
+.video {
+    display: block;
+    padding: auto;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    width: 100%;
+    max-width: 100%;
+}
+
+.border {
+  width: auto;
+  border: 7px solid #7abee3;
+  height: 70% ;
+  padding: 50px;
+  margin: 20px;
+  border-radius: 5%
+
+}
+
+
+.footer{
+    width:100%;
+    margin:auto;
+    text-align: center;
+    color:#7abee3;
+    background-color: white;
+    font-family: Righteous-Regular;
+    font-size: 100%;
+    font-weight: 100;
+    height: 5%;
+}
